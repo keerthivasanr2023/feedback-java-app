@@ -6,10 +6,10 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.demo</groupId>
-    <artifactId>Feedback-java-app</artifactId>
+    <artifactId>feedback-java-app</artifactId>
     <version>1.0</version>
     <packaging>jar</packaging>
-    <name>Feedback-java-app</name>
+    <name>feedback-java-app</name>
 
     <properties>
         <maven.compiler.source>17</maven.compiler.source>
